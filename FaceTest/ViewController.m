@@ -18,6 +18,10 @@
 
 
 
+
+
+
+
 @interface ViewController ()<ECFaceLivenessDelegate>
 
 // eyecool logo
